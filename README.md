@@ -1,2 +1,4 @@
 # grid-1
-Awesome grid experiment (not)
+Awesome grid experiment
+
+Also checking out some GIT features
